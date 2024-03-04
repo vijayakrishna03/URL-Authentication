@@ -25,7 +25,7 @@ from patterns import *
 
 # Path of your local server. Different for different OSs.
 LOCALHOST_PATH = "/Library/WebServer/Documents/"
-DIRECTORY_NAME = "URL-Detection-Using-Machine-Learning"
+DIRECTORY_NAME = "Malicious-Web-Content-Detection-Using-Machine-Learning"
 
 
 def having_ip_address(url):
